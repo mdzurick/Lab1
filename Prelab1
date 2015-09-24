@@ -1,0 +1,57 @@
+Lab 1 Pre-lab Example
+Team Information 
+Lab number: Lab 1 
+Date: 09/24/2015 
+Team Members:
+Team Number/Name: 207
+Hardware 
+Part 1 
+Team Member Responsibilities 
+Software Design: Matthew Dzurick 
+Hardware Design:  Avinash Tiwari
+Quality Assurance: Toan Chu
+Systems Integrator: Dalton Hirst 
+ 
+Draw the schematics or create a table detailing the connections for Part 1 of Lab 1. An example of the level of detail that is expected is given below.  
+ 
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 
+ 	 
+Part 2 
+Draw the schematics or create a table detailing the connections for Part 2 of Lab 1. You can choose to use a table or use a diagram. 
+ 
+Part 3 
+Draw the schematics or create a table detailing the connections for Part 3 of Lab 1. You can choose to use a table or use a diagram. 
+ 
+Tests 
+Part 1 
+List the tests that you intend to do based on the Lab 1 procedures. Describe the name of the test, the tool you intend to use, and a description of the test. Do this for each part in Lab 1. 
+Test Name 	Tool 	Description 
+Continuity Test 	Digital Multi-meter 	Test all wire connectors, solder joints, and wire-wraps for continuity 
+Power Test 	Digital Multi-meter 	Test that any created circuits have power correctly flowing 
+Grounding Test 	Digital Multi-meter 	Test that any switches connected to ground actually ground a powered circuit 
+Component 
+Test 	Digital Multi-meter 	Test that appropriate pins on the switch are connected 
+ 
+You may also include any software tests that you intend to make. 
+Test Name 	Input 	Description 
+timerTick Test 	 	Test that timerTick indeed ticks at the correct interval 
+displayTime Test 	“10000” 	Test that this function assigned the appropriate register to “10:00:00.” 
+Register Test 	 	Test that the register configurations for the timer work. 
+ 
+Part 2 Part 3 
+ 	 
+Software 
+Part 1 
+List the relevant control registers for controlling the LEDs in Part 1 of Lab 1. 
+Device: 	Register(s): 
+Digital I/O 	 
+ 
+Also describe the function of the microcontroller software as a finite-state machine. 
+Part 2 
+List the relevant control registers for controlling the LCD in Part 2 of Lab 1. 
+Device: 	Register(s): 
+Timer 	 
+ 
+Part 3 
+Also describe the function of the microcontroller software as a finite-state machine in Part 3 of Lab 1. 
